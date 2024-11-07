@@ -39,3 +39,13 @@ ExportedObj/
 # Uncomment this line if you have Resharper or Rider installed
 # .idea/
 # *.sln.DotSettings
+
+# Vuforia specific
+Assets/Editor/QCAR/
+Assets/StreamingAssets/QCAR/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Vuforia's cache of database metadata
+.vuforia/
